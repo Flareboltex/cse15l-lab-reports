@@ -4,7 +4,7 @@ Example 1<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
 Running cd without arguments brings you to the home directory ~. This is not an error and is expected behavior. <br><br>
 Example 2<br>
-![Image](Screenshot (9).png)<br>
+![Image](Screenshot (38).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
 Running cd with a directory as argument takes you back to the /workspaces folder. This is not an error.<br><br>
 Example 3<br>
@@ -24,7 +24,7 @@ Example 6<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
 Running ls with a path to a file as the argument returns the path to the file. This is not an error. <br><br>
 Example 7<br>
-![Image](Screenshot (14).png)<br>
+![Image](Screenshot (39).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
 Running cat without an argument hangs waiting for the file name forcing a reload. <br><br>
 Example 8<br>
