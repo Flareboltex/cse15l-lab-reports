@@ -26,7 +26,7 @@ Running ls with a path to a file as the argument returns the path to the file. T
 Example 7<br>
 ![Image](Screenshot (39).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
-Running cat without an argument hangs waiting for the file name forcing a reload. <br><br>
+Running cat without an argument hangs waiting for and input and then outputs the same thing that was inputted. This is not an error, but is also not particularly useful and will likely force you to reload the terminal. <br><br>
 Example 8<br>
 ![Image](Screenshot (15).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
