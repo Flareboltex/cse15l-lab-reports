@@ -2,7 +2,7 @@
 Example 1<br>
 ![Image](Screenshot (8).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
-Running cd without arguments brings you to the home directory ~. This is not an error and is expected behavior. <br><br><hr />
+Running cd without arguments brings you to the home directory ~. This is not an error and is expected behavior. <br><br>
 Example 2<br>
 ![Image](Screenshot (38).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
