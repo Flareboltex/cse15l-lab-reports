@@ -2,11 +2,11 @@
 Example 1<br>
 ![Image](Screenshot (8).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
-Running cd without arguments does not change the directory. <br><br>
+Running cd without arguments brings you to the home directory ~. This is not an error and is expected behavior. <br><br>
 Example 2<br>
 ![Image](Screenshot (9).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
-Running cd with a directory as argument takes you back to the /workspaces folder.<br><br>
+Running cd with a directory as argument takes you back to the /workspaces folder. This is not an error.<br><br>
 Example 3<br>
 ![Image](Screenshot (10).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
@@ -14,15 +14,15 @@ Running cd with a path to a file as the argument gives an error. This is because
 Example 4<br>
 ![Image](Screenshot (11).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
-Running ls without arguments lists the files in the current working directory. <br><br>
+Running ls without arguments lists the files in the current working directory. This is not an error. <br><br>
 Example 5<br>
 ![Image](Screenshot (12).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
-Running ls with a directory as an argument list the files in the directory used as argument.<br><br>
+Running ls with a directory as an argument list the files in the directory used as argument. This is not an error. <br><br>
 Example 6<br>
 ![Image](Screenshot (13).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
-Running ls with a path to a file as the argument returns the path to the file.<br><br>
+Running ls with a path to a file as the argument returns the path to the file. This is not an error. <br><br>
 Example 7<br>
 ![Image](Screenshot (14).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
@@ -34,7 +34,7 @@ Running cat with a directory as an argument gives an error because cat cannot ac
 Example 9<br>
 ![Image](Screenshot (16).png)<br>
 Absolute Path before command: /workspaces/cse15l-lab-reports<br>
-Running cat with a path to a file lists the contents of the file.<br><br>
+Running cat with a path to a file lists the contents of the file. This is not an error. <br><br>
 
 
 
