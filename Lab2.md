@@ -11,7 +11,7 @@
 3) The `log` field gets modified a second time by the second request. At this point `log` contains `"jpolitz: Hello \n"` and it will be modifed in the same way. This time it wil concatenate itself with `"yash: How are you \n"` and display `log` on the page. <br><br>
 <b>Part 2 <br></b>
 ![Image](Screenshot 2024-04-21 205918.png)<br>
-![Image](Screenshot 2024-04-21 210100.png)<br>
+![Image](Screenshot 2024-05-07 070225.png)<br>
 ![Image](Screenshot 2024-04-21 210206.png)<br><br>
 <b>Part 3 <br></b>
 Before week 2, I had had essentially no experience with programming and running my own server. I learned a lot about the reading the paths of URLs and using that to produce outputs on the page. I also learned a bit more about the process of debugging and the mindset you should have while doing it. 
