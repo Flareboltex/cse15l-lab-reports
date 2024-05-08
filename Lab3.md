@@ -6,8 +6,8 @@ Failure Inducing Input<br>
 Non-Failure Inducing Input<br>
 `assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));`<br>
 `assertArrayEquals(new int[]{3,2,1}, ArrayExamples.reversed(input2));`<br>
-![Image](Screenshot 2024-04-21 211010.png)<br>
-![Image](Screenshot 2024-04-21 210820.png)<br>
+![Image](Screenshot 2024-05-07 213724.png)<br>
+![Image](Screenshot 2024-05-07 214727.png)<br>
 <b>Part 2 <br></b>
 ![Image](Screenshot 2024-04-21 205918.png)<br>
 ![Image](Screenshot 2024-05-07 070225.png)<br>
