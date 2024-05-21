@@ -30,7 +30,7 @@ After:<br>
   }
 ```
 The bug in the original was that the original array was being initialized to the values of the `newArray` which is what was meant to hold the reversed array. To fix this, switch the initialization was `newArray` is being initialized to the reverse of `arr` and return `newArray`.<br>
-<b>Part 2 <br></b>
+<b>Part 2 (See below for citation)<br></b>
 1) `--include`
 ```
 $ grep -r "John" --include="gb*" ./technical/biomed
