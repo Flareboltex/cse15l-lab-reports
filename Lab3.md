@@ -83,5 +83,6 @@ $ grep --color=auto "blood" ./technical/biomed/rr191.txt
 ```
 `--color` allows you to get the outputs of a file with the parametrized pattern colored. Unfortunately I cannot get that to show here, but this is another way to help highlight the pattern in the output, improving readability.<br>
 
-<b>ChatGPT Conversation Reference
+<b>ChatGPT Conversation Reference<br>
+![Image](2024-05-20 21 02 45.png)
 
