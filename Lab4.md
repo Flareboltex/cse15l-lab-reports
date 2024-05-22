@@ -14,3 +14,7 @@ Keys pressed: `cd lab7` + [enter] + `bash test.sh` + [enter]<br>
 <b>Step 4 <br></b>
 Edit the code file to fix the failing test<br>
 Keys pressed: `vim ListExamples.java` + [enter] + [left] + [x] + [i] + [2] + [esc] + [shift] + [:] + [w] + [q]
+![Image](LB-RP-4-4.png)<br>
+<b>Step 5 <br></b>
+Run the tests, demonstrating that they now succeed<br>
+Keys pressed: [up] + [up] + [enter] 
