@@ -18,3 +18,7 @@ Keys pressed: `vim ListExamples.java` + [enter] + [left] + [x] + [i] + [2] + [es
 <b>Step 5 <br></b>
 Run the tests, demonstrating that they now succeed<br>
 Keys pressed: [up] + [up] + [enter] 
+![Image](LB-RP-4-5.png)<br>
+<b>Step 6 <br></b>
+Commit and push the resulting change to your Github account (you can pick any commit message!)<br>
+Keys pressed: `git add .` + [enter] + `git commit -m "Fixed error"` + [enter] + `git push origin main` + [enter] 
