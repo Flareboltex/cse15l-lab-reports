@@ -22,3 +22,4 @@ Keys pressed: [up] + [up] + [enter]
 <b>Step 6 <br></b>
 Commit and push the resulting change to your Github account (you can pick any commit message!)<br>
 Keys pressed: `git add .` + [enter] + `git commit -m "Fixed error"` + [enter] + `git push origin main` + [enter] 
+![Image](LB-RP-4-6.png)<br>
