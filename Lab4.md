@@ -10,3 +10,7 @@ Keys pressed: `git clone git@github.com:Flareboltex/lab7.git` + [enter]<br>
 <b>Step 3 <br></b>
 Run the tests, demonstrating that they fail<br>
 Keys pressed: `cd lab7` + [enter] + `bash test.sh` + [enter]<br>
+![Image](LB-RP-4-3.png)<br>
+<b>Step 4 <br></b>
+Edit the code file to fix the failing test<br>
+Keys pressed: `vim ListExamples.java` + [enter] + [left] + [x] + [i] + [2] + [esc] + [shift] + [:] + [w] + [q]
