@@ -10,7 +10,6 @@ You are on the right track with the thought about handling negative numbers. Try
 ```
 public class ArrayProcessor {
 
-    // Finds the maximum difference between any two elements in the array
     public int findMaxDifference(int[] arr) {
         if (arr == null || arr.length < 2) {
             throw new IllegalArgumentException();
@@ -37,25 +36,25 @@ import org.junit.Test;
 public class ArrayProcessorTest {
 
     @Test
-    public void testFindMaxDifference_PositiveNumbers() {
+    public void testFindMaxDifferencePositiveNumbers() {
         ArrayProcessor ap = new ArrayProcessor();
         assertEquals(8, ap.findMaxDifference(new int[]{1, 2, 9, 4, 5}));
     }
 
     @Test
-    public void testFindMaxDifference_NegativeNumbers() {
+    public void testFindMaxDifferenceNegativeNumbers() {
         ArrayProcessor ap = new ArrayProcessor();
         assertEquals(12, ap.findMaxDifference(new int[]{-3, -2, -6, 0, 6}));
     }
 
     @Test
-    public void testFindMaxDifference_MixedNumbers() {
+    public void testFindMaxDifferenceMixedNumbers() {
         ArrayProcessor ap = new ArrayProcessor();
         assertEquals(6, ap.findMaxDifference(new int[]{7, 1, 5, 3, 6, 4}));
     }
 
     @Test
-    public void testFindMaxDifference_AllNegativeNumbers() {
+    public void testFindMaxDifferenceAllNegativeNumbers() {
         ArrayProcessor ap = new ArrayProcessor();
         assertEquals(1, ap.findMaxDifference(new int[]{-1, -2, -3, -4}));
     }
