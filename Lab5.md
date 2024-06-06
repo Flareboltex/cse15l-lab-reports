@@ -3,12 +3,12 @@
 <b>Step 1 <br></b>
 Hi, my ArrayProcessor isn't passing the tests and I can't seem to figure it out. My best guess is that it something to do with negative numbers, but I can't figure it out. 
 ![Image](LB-RP-5-1.png)<br>
-<b>Part 2 <br></b>
-You are on the right track with the thought about handling negative numbers. Try to think about difference. Can you have a negative difference? What do you need to consider when calculating the difference between each number?
 <b>Step 2 <br></b>
+You are on the right track with the thought about handling negative numbers. Try to think about difference. Can you have a negative difference? What do you need to consider when calculating the difference between each number?
+<b>Step 3 <br></b>
 ![Image](LB-RP-5-2.png)<br>
 The bug is the student needed to take the absolute value of the difference to account for situations where the first number is smaller than the second. Before it could result in negative differences that were actually larger than the positive differences, but because of the negative sign were treated as smaller. 
-<b>Step 3 <br></b>
+<b>Step 4 <br></b>
 ```
 C:\USERS\KANIS\DOCUMENTS\CSE15LLABS\WEEK10
 |   ArrayProcessor.class
